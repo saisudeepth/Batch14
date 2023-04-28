@@ -1,0 +1,44 @@
+ASSIGNMENT --> 
+1) create retaildb_b14 --> 
+
+task1 --> 
+write and execute the sqoop command to list out all the databases in mysql 
+
+task2 --> 
+write and execute the sqoop command to list out all the tables  in retail_db_b14 ;
+
+task3 --> 
+write and execute a sqoop command to import employyes table into hdfs using 3 mappers ;
+
+task4 --> 
+
+write and execute a sqoop command to import customers table into hdfs using 1 mapper ;
+import only customer_id , company_name,address,city,region
+
+TASK-5: 
+write and execute a sqoop command to import customers table into hdfs using 1 mapper ;
+import only customer_id , company_name,address,city,region columns for country = 'UK'
+
+
+Task-6: 
+write and execute a sqoop command to import territories table into 
+hdfs using 1 mappers by using delimiter as '|'
+
+
+task-7: 
+Sqoop transfer suppliers into HDFS using warehouse-dir parameter
+
+
+task-8: 
+write a sqoop command to import the JOIN condition query into hdfs
+table 1 --> orders --> order_date , ship_city ,anycolumn in order_details 
+table 2 --> order_details
+
+HINT -->  --query clause 
+
+
+task9 : 
+customers --> table --> NULL values 
+While doing the sqoop import , i must never see a null value in part m...
+'NA' --> replace null values with NA
+

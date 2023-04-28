@@ -1,0 +1,7 @@
+==============================================
+1) How many different metastores in HIVE ?
+2) In Azure , what is the hadoop service and whether hive is present in that hadoop service ?
+3) REAL TIME APPLICATIONS who uses HIVE  for processing 
+4) Can hive process Real time data ?
+5) Can hive do the DML operations ?
+==============================================

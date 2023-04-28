@@ -1,0 +1,19 @@
+TASK-1: 
+database --> Import all the tables in a database in a single shot 
+
+EXPLORE IT --> 
+
+TASK-2: 
+
+database --> Import all the tables in a database in a single shot except one table 
+
+EXPLORE IT --> 
+
+TASK-3: 
+Difference between Warehouse dir and target directory 
+
+WHEN WE USE Warehouse dir command 
+
+
+TASK-4: 
+delete-target-dir --> what is the use of it ?

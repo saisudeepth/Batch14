@@ -1,0 +1,12 @@
+TASK-1: 
+1) can we do split by on STRING COLUMN --> 
+WILL THAT GIVE GOOD PERFORMANCE or IS IT ALLOWED IN REAL TIME ?
+
+NOTE --> STACKOVERFLOW 
+
+2) TAKE the table products , import the data into hdfs 
+--> PRODUCT_ID,product_name,product_price,product_description
+
+3) Do the sqoop import on customer table , only top 100 records needs to be imported 
+
+4) do the sqoop import of departments into hdfs using delimiter '|'
